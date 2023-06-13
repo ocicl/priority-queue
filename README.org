@@ -1,0 +1,10 @@
+* priority-queue
+
+A priority queue for Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/dsorokin/priority-queue.git   |
+| commit  | 011b8d5  |
+| systems | priority-queue |
+|---------+-------------------------------------------|
+
